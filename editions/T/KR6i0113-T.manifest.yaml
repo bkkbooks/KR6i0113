@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0113/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0113/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 不思議光菩薩所說經
+  identifiers:
+    krp: KR6i0113
+    cbeta: T14n0484
+    cbeta_old_id: T14n0484
+    authorityid: CA0000359
+    json_key: T0484
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0484.xml
+    old_id: T14n0484
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0113_000-T.yaml, hash: 'sha256:4b7bdfbba12ac67a7eb2d65a725f48092dccd8f1127d4f3d532fed442f757e73'}
+  - {seq: 1, filename: KR6i0113_001-T.yaml, hash: 'sha256:d815ff8626a89f75e4ae66bfc084d24a817eecf2fd93fd45e0a545ca6cc3bd1f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0113_000-T.markers.yaml, hash: 'sha256:6d049ef91673b944062c4b882ef0c0e50f0370d19418f20dd5d58a82ec522efa'}
+  - {seq: 1, role: markers, filename: assets/KR6i0113_001-T.markers.yaml, hash: 'sha256:df44b7f688df85b9b6cda56eceaae0a51906334d29f027b4446fc021fcbbd0ae'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0113_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5165
+  label: 不思議光菩薩所說經一卷
+  type: juan
+  level: 1
+hash: sha256:20dd13ef4271ef880a04da4d2197d606a44c5731b9f1ba19658fc60705afa3f9

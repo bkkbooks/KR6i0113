@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0113/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 不思議光菩薩所說經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0484.xml
+    old_id: T14n0484
+hash: sha256:4b7bdfbba12ac67a7eb2d65a725f48092dccd8f1127d4f3d532fed442f757e73
