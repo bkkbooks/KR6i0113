@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0113/v1
 canonical_location: https://kanripo.org/bkk/KR6i0113/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 不思議光菩薩所說經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0113_000.yaml, hash: 'sha256:4b7bdfbba12ac67a7eb2d65a725f48092dccd8f1127d4f3d532fed442f757e73'}
-  - {seq: 1, filename: KR6i0113_001.yaml, hash: 'sha256:d815ff8626a89f75e4ae66bfc084d24a817eecf2fd93fd45e0a545ca6cc3bd1f'}
+  - {seq: 1, filename: KR6i0113_001.yaml, hash: 'sha256:060092edcf139d2ea303740304adb0fe1190e2363aec1700121f57717911a062'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0113_000.markers.yaml, hash: 'sha256:ad1249ee9065a42aeb01aafb96aca49744de9026d2e972c9102075d65b13beff'}
-  - {seq: 1, role: markers, filename: assets/KR6i0113_001.markers.yaml, hash: 'sha256:b696443f9eb466ffd16e83f166da7d04730e8cbd24bd146b5dc3c1ff22e7671e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0113_001.markers.yaml, hash: 'sha256:e3684470e4d5e8db54afcc733dd1711d224153e763ddcaff9aebb15b8fde5197'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 不思議光菩薩所說經一卷
   type: juan
   level: 1
-hash: sha256:0951240fa3f85eaf3ba2fdd459405ab0c1647bf64dc090e1e031fe67f119d682
+hash: sha256:2229a19a4a8a48b77c39fe0e2075b8acc9210582d2d63e857ce538d4d2f15228
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
